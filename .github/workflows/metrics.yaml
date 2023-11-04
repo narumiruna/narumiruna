@@ -20,3 +20,5 @@ jobs:
           plugin_projects: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
