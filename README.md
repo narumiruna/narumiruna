@@ -2,8 +2,6 @@
 
 I'm Narumi, a machine learning engineer.
 
-![](github-metrics.svg)
-
 ## Languages and Tools
 
 ![](https://skillicons.dev/icons?i=aws,bash,docker,fastapi,git,github,githubactions,go,jenkins,latex,linux,matlab,md,mysql,py,pytorch,redis,vscode&perline=10&theme=light)
